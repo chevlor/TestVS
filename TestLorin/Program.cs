@@ -10,7 +10,7 @@ namespace TestLorin
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Coucou");
+            
         }
     }
 }
